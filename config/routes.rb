@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  mount CustomAdmin::Engine, at: '/custom_admin'
+
   resources :users
 
   root 'users#index'

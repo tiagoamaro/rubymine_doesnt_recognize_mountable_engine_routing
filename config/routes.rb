@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  mount CustomAdmin::Engine, at: '/custom_admin'
+  mount CustomAdmin::Engine, at: '/'
 
   resources :users
 

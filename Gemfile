@@ -45,3 +45,9 @@ group :development do
   gem 'spring'
 end
 
+
+
+
+path 'engines' do
+  gem 'custom_admin'
+end

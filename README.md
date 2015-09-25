@@ -10,6 +10,11 @@ RubyMine (7.1.4) doesn't recognize Rails mountable engines routing, even if name
  
 ![Where The Magic Happened](/issue-picture.png)
 
+# RubyMine Issue Tracker
+
+This bug now has been reported on [RubyMine's YouTrack!](https://youtrack.jetbrains.com/issue/RUBY-17182) Check it out and vote for its implementation! :)
+
 # Where
 
 URL can be found in the [`app/views/users/index.html.erb`](app/views/users/index.html.erb#L6-L8) file
+
